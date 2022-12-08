@@ -105,3 +105,11 @@ dist
 
 # dotenv file
 .env
+
+# prettier file
+.prettierrc.json
+.prettierignore
+
+# eslint file
+.eslintrc.json
+.eslintignore
